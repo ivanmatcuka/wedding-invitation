@@ -11,4 +11,10 @@ module.exports = {
       .use("vue-svg-loader")
       .loader("vue-svg-loader");
   },
+  pages: {
+    index: {
+      entry: "src/main.ts",
+      title: "Приглашение",
+    },
+  },
 };
