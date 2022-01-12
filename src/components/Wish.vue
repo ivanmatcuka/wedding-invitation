@@ -37,5 +37,5 @@ export default class Wish extends Vue {
     font-size 2em
 
   &:last-of-type
-    margin-bottom: 0
+    margin-bottom 0
 </style>
